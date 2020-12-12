@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+}
+
+#main-footer {
+    display: none;
+}
+
+.dropdown-menu a:hover i,
+.dropdown-menu a:hover {
+    color: #222 !important;
+}
